@@ -22,5 +22,4 @@
 <p>
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-  <img alt="GenshinImpact" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcG3UGArXWVYl_IRbn9GcXsVKjl3eFX_ksg&usqp=CAU" />
 </p>
