@@ -19,5 +19,4 @@
 <p>
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-natsumi%4070iq.xyz">
 </p>
