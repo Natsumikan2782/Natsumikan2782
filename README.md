@@ -1,5 +1,4 @@
 <h1><img src="https://media.discordapp.net/attachments/881682054796959759/899538710897496074/iyagaruuribo.gif" width="30"/> Natsumikan2782</h1>
-[![Iyagaru](https://media.discordapp.net/attachments/881682054796959759/899538710897496074/iyagaruuribo.gif)
 
 <h4>Languages</h4>
 <p>
