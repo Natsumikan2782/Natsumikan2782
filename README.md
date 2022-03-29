@@ -1,5 +1,7 @@
 <h1><img src="https://media.discordapp.net/attachments/881682054796959759/899538710897496074/iyagaruuribo.gif" width="30"/> Natsumikan2782</h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Natsumikan2782)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h4>Languages</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" /> 
