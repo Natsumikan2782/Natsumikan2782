@@ -15,7 +15,7 @@
 <h4>Browsers</h4>
 <p>
   <img alt="Discord" src="https://img.shields.io/badge/natsumi%237504-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alt="Twitter" src="https://img.shields.io/badge/@Natsumikan2782-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" />
   <img alt="Email" src="https://img.shields.io/badge/natsumi@70iq.xyz-%231DA1F2.svg?style=flat-square&logo=Gmail&logoColor=red" />
 </p>
 <h4>Others</h4>
