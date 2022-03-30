@@ -1,6 +1,4 @@
 <h1><img src="https://media.discordapp.net/attachments/881682054796959759/899538710897496074/iyagaruuribo.gif" width="30"/> Natsumikan2782</h1>
-
-<img alt="Discord" src="https://img.shields.io/badge/natsumi%237504-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" />
 ![trophy](https://github-profile-trophy.vercel.app/?username=Natsumikan2782&theme=onedark)
 
 <h4>Languages</h4>
@@ -16,5 +14,6 @@
 <h4>Others</h4>
 <p>
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/natsumi%237504-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
 </p>
